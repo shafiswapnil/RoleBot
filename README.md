@@ -1,0 +1,2 @@
+# RoleBot
+RoleBot for Discord
